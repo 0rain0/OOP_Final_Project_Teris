@@ -1,0 +1,45 @@
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\TetrisGame.vcxproj.CopyComplete
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\TetrisGame.exe
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\TetrisGame.pdb
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\sfml-graphics-d-2.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\sfml-window-d-2.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\sfml-system-d-2.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\freetyped.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\zlibd1.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\bz2d.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\libpng16d.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\brotlidec.dll
+D:\C++ 專案開發基礎實戰\TetrisGame\Debug\brotlicommon.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\TetrisGame.vcxproj.CopyComplete
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\TetrisGame.exe
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\sfml-graphics-d-2.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\sfml-window-d-2.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\sfml-system-d-2.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\freetyped.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\zlibd1.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\bz2d.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\libpng16d.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\brotlidec.dll
+D:\C++ 專案開發基礎實戰\期末專題\TetrisGame\Debug\brotlicommon.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\TetrisGame.vcxproj.CopyComplete
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\TetrisGame.exe
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\sfml-graphics-d-2.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\sfml-window-d-2.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\sfml-system-d-2.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\freetyped.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\zlibd1.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\bz2d.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\libpng16d.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\brotlidec.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\Debug\brotlicommon.dll
+D:\NUK\物件\TetrisGame\Debug\TetrisGame.vcxproj.CopyComplete
+D:\NUK\物件\TetrisGame\Debug\TetrisGame.exe
+D:\NUK\物件\TetrisGame\Debug\sfml-graphics-d-2.dll
+D:\NUK\物件\TetrisGame\Debug\sfml-window-d-2.dll
+D:\NUK\物件\TetrisGame\Debug\sfml-system-d-2.dll
+D:\NUK\物件\TetrisGame\Debug\freetyped.dll
+D:\NUK\物件\TetrisGame\Debug\zlibd1.dll
+D:\NUK\物件\TetrisGame\Debug\bz2d.dll
+D:\NUK\物件\TetrisGame\Debug\libpng16d.dll
+D:\NUK\物件\TetrisGame\Debug\brotlidec.dll
+D:\NUK\物件\TetrisGame\Debug\brotlicommon.dll

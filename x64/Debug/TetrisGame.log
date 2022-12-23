@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\SFML-2.4.1-windows-gcc-4.9.2-tdm-64-bit\SFML-2.4.1\include\SFML\Window\WindowHandle.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\C++ 專案開發基礎實戰\SFML-Project\TetrisGame\main.cpp(290,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'sfml-system-d.lib'
